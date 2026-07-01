@@ -2,3 +2,5 @@
 "Git ist hilfreich" 
 
 Und hier die dritte Zeile!
+
+Und die hier wurde aus Visual Studio Code hinzugefügt
