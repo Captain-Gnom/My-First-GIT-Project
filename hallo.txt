@@ -1,4 +1,4 @@
 "Hallo Welt von Git" 
 "Git ist hilfreich" 
 
-Und heir die dritte Zeile!
+Und hier die dritte Zeile!
